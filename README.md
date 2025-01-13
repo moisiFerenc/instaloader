@@ -23,7 +23,7 @@ This project is a script to download the latest images from specified Instagram 
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/moisiFerenc/instaloader_project.git
+    git clone https://github.com/moisiFerenc/instaloader.git
     cd instaloader_project
     ```
 
